@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 15 jun. 2023, 08:09:26
+    Author     : Usuario
+*/
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid;
+  border-color: #FF4500;
+}
+
+tr:hover {
+    background-color: #00FA9A;
+}
+th {
+  background-color: #DAA520;
+  color: black;
+}
+td {
+    text-align: center;
+}
